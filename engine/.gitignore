@@ -1,6 +1,0 @@
-build/*
-out/*
-.vscode/
-.vs/
-.cache/
-test-features/
